@@ -12,3 +12,6 @@
 
 ### Таблица ГЗ и КЭ для проверки добавления прав: [ссылка на таблицу](https://docs.google.com/spreadsheets/d/1LyuDsBCwFvHX903TFTRgS80JIpxxgc7QMOWyf-ZB9H0/edit?usp=sharing)
 
+### Таблица преходов формы добавления данных: [ссылка на таблицу](https://docs.google.com/spreadsheets/d/1u2_N5rTV9gjxVN5gNZOsi94Sx6eyX0Me_NoOQLU3moI/edit?usp=sharing)
+
+![Аааа](https://github.com/GorgeousTV/Carsharing/assets/144271169/35840d0e-1f77-470c-8047-e770dab05fb5)
